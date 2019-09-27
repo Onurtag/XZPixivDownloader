@@ -1,12 +1,24 @@
-![仙尊 pixiv 下载器 英文截图](https://wx3.sinaimg.cn/large/640defebly1fw920pxevij20pf0h1q5b.jpg)
+## Note:
+
+**This version (script version) will only perform basic maintenance in the future and will not add new features. Please migrate to the Chrome extension as soon as possible.**
+
+Install Chrome extension：[Offline installation tutorial](https://github.com/xuejianxianzun/PixivBatchDownloader/wiki/2.-%E5%AE%89%E8%A3%85#%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85) 
+
+[Chrome extension Github page](https://github.com/xuejianxianzun/PixivBatchDownloader)
+
+[Chrome extension wiki](https://github.com/xuejianxianzun/PixivBatchDownloader/wiki)
+
+** If you have an extended version installed, you will need to disable this script version. ** Do not let both versions run at the same time.
 
 # Introduction:
 
 This is a Pixiv image downloader written in JavaScript that supports many page types and filters.
 
-Some additional features have been added, such as removing ads, quick collections, and viewing patterns.
+Some additional features have been added, such as removing ads, quick collections, Add tag to unclassified work, and viewing pictures.
 
 It is essentially a user script (UserScript) that must be installed using the User Script Manager.
+
+![仙尊 pixiv 下载器 英文截图](https://wx4.sinaimg.cn/large/640defebly1fzm7xsh5vdj20kw0iz0v6.jpg)
 
 ### Recommended Use:
 
@@ -28,9 +40,7 @@ The downloaded file will be saved in your browser's download directory.
 
 This tool has a browser extension. If you want to use a browser extension, you can uninstall the scripted version and install the browser extension.
 
-Chrome：[Chrome webstore](https://chrome.google.com/webstore/detail/hfgoikdmppghehigkckknikdgdcjbfpl)
-
-Firefox：[Mozilla addons](https://addons.mozilla.org/zh-CN/firefox/addon/pixiv-batch-downloader/)
+[GitHub](https://github.com/xuejianxianzun/PixivBatchDownloader/wiki/2.-%E5%AE%89%E8%A3%85#%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85)
 
 # Supported languages:
 
@@ -84,11 +94,7 @@ Now you can download the gif image directly for a single animation.
 
 - [New work: following](https://www.pixiv.net/bookmark_new_illust.php)
 
-- [Illustration on Showcase](https://www.pixiv.net/showcase/a/3190/)
-
 - [Illustration, comics, cosplay page on pixivision](https://www.pixivision.net/zh/a/3190)
-
-- [Image response](https://www.pixiv.net/response.php?mode=all&id=194231)
 
 ## Library used：
 
